@@ -1,9 +1,9 @@
 # NitelOS-1.0
 Very primitive Assembly OS. Made on Ubuntu
 # How to convert it? 
-I has using Ubuntu 22.04.3 LTS 64-BIT. You don't need to use Ubuntu, but Linux has a convert command (cat) preview: **cat boot.bin kernel.o > os.img**
+I was using Ubuntu 22.04.3 LTS 64-BIT to compile it. You don't need to use Ubuntu, but Linux has a convert command (cat) preview: **cat boot.bin kernel.o > os.img**
 You can use this command in Terminal (Shell) 
-I was using NASM and GCC
+I used NASM and GCC
 
 ### Update needed to install apt
 ```
